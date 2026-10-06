@@ -1,0 +1,17 @@
+RECEIPT
+Supplier: Maple Stationery
+Receipt Number: RCP-013
+Date: 2026-09-13
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 3
+Unit Price: 4,750.00
+Line Amount: 14,250.00
+
+Subtotal: 14,250.00
+Tax: 1,068.75
+Discount: 0.00
+Total: 15,318.75
+Payment Method: Bank Transfer

@@ -1,0 +1,16 @@
+INVOICE
+Supplier: Cedar Office Supplies
+Invoice Number: INV-001
+Date: 2026-09-01
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 3
+Unit Price: 1,750.00
+Line Amount: 5,250.00
+
+Subtotal: 5,250.00
+Tax: 393.75
+Discount: 0.00
+Payment Method: Pending

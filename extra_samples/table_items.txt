@@ -1,0 +1,14 @@
+RECEIPT
+Merchant: Harbour IT Services
+Receipt Number: RCP-TABLE-001
+Date: 2026-09-26
+Customer: Demo Learning Centre
+Currency: NGN
+Description | Quantity | Unit Price | Amount
+USB cable | 2 | 1,500.00 | 3,000.00
+Laptop stand | 1 | 12,000.00 | 12,000.00
+Subtotal: 15,000.00
+Tax: 0.00
+Discount: 0.00
+Grand Total: 15,000.00
+Payment Method: Bank Transfer

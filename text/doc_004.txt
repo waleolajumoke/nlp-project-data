@@ -1,0 +1,17 @@
+INVOICE
+Merchant: Summit Catering
+Invoice No: INV-004
+Date: 2026-09-04
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 2
+Unit Price: 2,500.00
+Line Amount: 5,000.00
+
+Subtotal: 5,000.00
+Tax: 375.00
+Discount: 500.00
+Grand Total: 4,875.00
+Payment Method: Pending

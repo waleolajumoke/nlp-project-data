@@ -1,0 +1,17 @@
+INVOICE
+Merchant: Maple Stationery
+Invoice No: INV-008
+Date: 2026-09-08
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 2
+Unit Price: 3,500.00
+Line Amount: 7,000.00
+
+Subtotal: 7,000.00
+Tax: 525.00
+Discount: 500.00
+Grand Total: 7,025.00
+Payment Method: Pending

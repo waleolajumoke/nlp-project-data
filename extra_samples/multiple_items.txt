@@ -1,0 +1,19 @@
+INVOICE
+Supplier: Cedar Office Supplies
+Invoice Number: INV-MULTI-001
+Date: 2026-09-25
+Customer: Demo Learning Centre
+Currency: NGN
+Item: Keyboard
+Quantity: 2
+Unit Price: 7,500.00
+Line Amount: 15,000.00
+Item: Mouse
+Quantity: 3
+Unit Price: 3,000.00
+Line Amount: 9,000.00
+Subtotal: 24,000.00
+Tax: 0.00
+Discount: 1,000.00
+Total: 23,000.00
+Payment Method: Pending

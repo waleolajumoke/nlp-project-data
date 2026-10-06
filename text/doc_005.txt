@@ -1,0 +1,17 @@
+INVOICE
+Supplier: Orchid Equipment
+Invoice Number: INV-005
+Date: 2026-09-05
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 3
+Unit Price: 2,750.00
+Line Amount: 8,250.00
+
+Subtotal: 8,250.00
+Tax: 618.75
+Discount: 0.00
+Total: 8,868.75
+Payment Method: Pending

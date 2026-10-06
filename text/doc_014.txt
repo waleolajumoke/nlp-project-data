@@ -1,0 +1,17 @@
+RECEIPT
+Merchant: Summit Catering
+Receipt No: RCP-014
+Date: 2026-09-14
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 4
+Unit Price: 5,000.00
+Line Amount: 20,000.00
+
+Subtotal: 20,000.00
+Tax: 1,500.00
+Discount: 0.00
+Grand Total: 21,500.00
+Payment Method: Bank Transfer

@@ -1,0 +1,17 @@
+RECEIPT
+Supplier: Orchid Equipment
+Receipt Number: RCP-015
+Date: 2026-09-15
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 5
+Unit Price: 5,250.00
+Line Amount: 26,250.00
+
+Subtotal: 26,250.00
+Tax: 0.00
+Discount: 0.00
+Total: 26,250.00
+Payment Method: Bank Transfer

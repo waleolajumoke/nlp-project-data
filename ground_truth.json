@@ -1,0 +1,482 @@
+[
+  {
+    "document_id": "doc_001",
+    "document_type": "invoice",
+    "supplier": "Cedar Office Supplies",
+    "document_number": "INV-001",
+    "date": "2026-09-01",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "5250.00",
+    "tax": "393.75",
+    "discount": "0.00",
+    "total": "5643.75",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 3,
+        "unit_price": "1750.00",
+        "amount": "5250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_002",
+    "document_type": "invoice",
+    "supplier": "Harbour IT Services",
+    "document_number": "INV-002",
+    "date": "2026-09-02",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "8000.00",
+    "tax": "600.00",
+    "discount": "0.00",
+    "total": "8600.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 4,
+        "unit_price": "2000.00",
+        "amount": "8000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_003",
+    "document_type": "invoice",
+    "supplier": "Maple Stationery",
+    "document_number": "INV-003",
+    "date": "2026-09-03",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "11250.00",
+    "tax": "0.00",
+    "discount": "0.00",
+    "total": "11250.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 5,
+        "unit_price": "2250.00",
+        "amount": "11250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_004",
+    "document_type": "invoice",
+    "supplier": "Summit Catering",
+    "document_number": "INV-004",
+    "date": "2026-09-04",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "5000.00",
+    "tax": "375.00",
+    "discount": "500.00",
+    "total": "4875.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 2,
+        "unit_price": "2500.00",
+        "amount": "5000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_005",
+    "document_type": "invoice",
+    "supplier": "Orchid Equipment",
+    "document_number": "INV-005",
+    "date": "2026-09-05",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "8250.00",
+    "tax": "618.75",
+    "discount": "0.00",
+    "total": "8868.75",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 3,
+        "unit_price": "2750.00",
+        "amount": "8250.00"
+      }
+    ],
+    "split": "test",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_006",
+    "document_type": "invoice",
+    "supplier": "Cedar Office Supplies",
+    "document_number": "INV-006",
+    "date": "2026-09-06",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "12000.00",
+    "tax": "0.00",
+    "discount": "0.00",
+    "total": "12000.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 4,
+        "unit_price": "3000.00",
+        "amount": "12000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_007",
+    "document_type": "invoice",
+    "supplier": "Harbour IT Services",
+    "document_number": "INV-007",
+    "date": "2026-09-07",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "16250.00",
+    "tax": "1218.75",
+    "discount": "0.00",
+    "total": "17468.75",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 5,
+        "unit_price": "3250.00",
+        "amount": "16250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_008",
+    "document_type": "invoice",
+    "supplier": "Maple Stationery",
+    "document_number": "INV-008",
+    "date": "2026-09-08",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "7000.00",
+    "tax": "525.00",
+    "discount": "500.00",
+    "total": "7025.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 2,
+        "unit_price": "3500.00",
+        "amount": "7000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_009",
+    "document_type": "invoice",
+    "supplier": "Summit Catering",
+    "document_number": "INV-009",
+    "date": "2026-09-09",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "11250.00",
+    "tax": "0.00",
+    "discount": "0.00",
+    "total": "11250.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 3,
+        "unit_price": "3750.00",
+        "amount": "11250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_010",
+    "document_type": "invoice",
+    "supplier": "Orchid Equipment",
+    "document_number": "INV-010",
+    "date": "2026-09-10",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "16000.00",
+    "tax": "1200.00",
+    "discount": "0.00",
+    "total": "17200.00",
+    "payment_method": "Pending",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 4,
+        "unit_price": "4000.00",
+        "amount": "16000.00"
+      }
+    ],
+    "split": "test",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_011",
+    "document_type": "receipt",
+    "supplier": "Cedar Office Supplies",
+    "document_number": "RCP-011",
+    "date": "2026-09-11",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "21250.00",
+    "tax": "1593.75",
+    "discount": "0.00",
+    "total": "22843.75",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 5,
+        "unit_price": "4250.00",
+        "amount": "21250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_012",
+    "document_type": "receipt",
+    "supplier": "Harbour IT Services",
+    "document_number": "RCP-012",
+    "date": "2026-09-12",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "9000.00",
+    "tax": "0.00",
+    "discount": "500.00",
+    "total": "8500.00",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 2,
+        "unit_price": "4500.00",
+        "amount": "9000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_013",
+    "document_type": "receipt",
+    "supplier": "Maple Stationery",
+    "document_number": "RCP-013",
+    "date": "2026-09-13",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "14250.00",
+    "tax": "1068.75",
+    "discount": "0.00",
+    "total": "15318.75",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 3,
+        "unit_price": "4750.00",
+        "amount": "14250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_014",
+    "document_type": "receipt",
+    "supplier": "Summit Catering",
+    "document_number": "RCP-014",
+    "date": "2026-09-14",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "20000.00",
+    "tax": "1500.00",
+    "discount": "0.00",
+    "total": "21500.00",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 4,
+        "unit_price": "5000.00",
+        "amount": "20000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_015",
+    "document_type": "receipt",
+    "supplier": "Orchid Equipment",
+    "document_number": "RCP-015",
+    "date": "2026-09-15",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "26250.00",
+    "tax": "0.00",
+    "discount": "0.00",
+    "total": "26250.00",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 5,
+        "unit_price": "5250.00",
+        "amount": "26250.00"
+      }
+    ],
+    "split": "test",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_016",
+    "document_type": "receipt",
+    "supplier": "Cedar Office Supplies",
+    "document_number": "RCP-016",
+    "date": "2026-09-16",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "11000.00",
+    "tax": "825.00",
+    "discount": "500.00",
+    "total": "11325.00",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 2,
+        "unit_price": "5500.00",
+        "amount": "11000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_017",
+    "document_type": "receipt",
+    "supplier": "Harbour IT Services",
+    "document_number": "RCP-017",
+    "date": "2026-09-17",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "17250.00",
+    "tax": "1293.75",
+    "discount": "0.00",
+    "total": "18543.75",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 3,
+        "unit_price": "5750.00",
+        "amount": "17250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_018",
+    "document_type": "receipt",
+    "supplier": "Maple Stationery",
+    "document_number": "RCP-018",
+    "date": "2026-09-18",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "24000.00",
+    "tax": "0.00",
+    "discount": "0.00",
+    "total": "24000.00",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 4,
+        "unit_price": "6000.00",
+        "amount": "24000.00"
+      }
+    ],
+    "split": "development",
+    "layout": "B"
+  },
+  {
+    "document_id": "doc_019",
+    "document_type": "receipt",
+    "supplier": "Summit Catering",
+    "document_number": "RCP-019",
+    "date": "2026-09-19",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "31250.00",
+    "tax": "2343.75",
+    "discount": "0.00",
+    "total": "33593.75",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 5,
+        "unit_price": "6250.00",
+        "amount": "31250.00"
+      }
+    ],
+    "split": "development",
+    "layout": "A"
+  },
+  {
+    "document_id": "doc_020",
+    "document_type": "receipt",
+    "supplier": "Orchid Equipment",
+    "document_number": "RCP-020",
+    "date": "2026-09-20",
+    "customer": "Demo Learning Centre",
+    "currency": "NGN",
+    "subtotal": "13000.00",
+    "tax": "975.00",
+    "discount": "500.00",
+    "total": "13475.00",
+    "payment_method": "Bank Transfer",
+    "line_items": [
+      {
+        "description": "Office supplies package",
+        "quantity": 2,
+        "unit_price": "6500.00",
+        "amount": "13000.00"
+      }
+    ],
+    "split": "test",
+    "layout": "B"
+  }
+]

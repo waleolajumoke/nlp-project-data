@@ -1,0 +1,17 @@
+INVOICE
+Supplier: Harbour IT Services
+Invoice Number: INV-007
+Date: 2026-09-07
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 5
+Unit Price: 3,250.00
+Line Amount: 16,250.00
+
+Subtotal: 16,250.00
+Tax: 1,218.75
+Discount: 0.00
+Total: 17,468.75
+Payment Method: Pending

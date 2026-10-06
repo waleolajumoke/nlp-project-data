@@ -1,0 +1,5 @@
+PyMuPDF
+Pillow
+pytesseract
+streamlit==1.64.0
+pandas

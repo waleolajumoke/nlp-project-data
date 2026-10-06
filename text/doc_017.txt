@@ -1,0 +1,17 @@
+RECEIPT
+Supplier: Harbour IT Services
+Receipt Number: RCP-017
+Date: 2026-09-17
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 3
+Unit Price: 5,750.00
+Line Amount: 17,250.00
+
+Subtotal: 17,250.00
+Tax: 1,293.75
+Discount: 0.00
+Total: 18,543.75
+Payment Method: Bank Transfer

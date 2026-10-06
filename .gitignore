@@ -1,0 +1,6 @@
+app.py 
+extractor.py
+test_project.py
+README.md
+.venv
+__pycache__/

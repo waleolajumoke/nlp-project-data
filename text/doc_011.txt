@@ -1,0 +1,17 @@
+RECEIPT
+Supplier: Cedar Office Supplies
+Receipt Number: RCP-011
+Date: 2026-09-11
+Customer: Demo Learning Centre
+Currency: NGN
+
+Item: Office supplies package
+Quantity: 5
+Unit Price: 4,250.00
+Line Amount: 21,250.00
+
+Subtotal: 21,250.00
+Tax: 1,593.75
+Discount: 0.00
+Total: 22,843.75
+Payment Method: Bank Transfer
